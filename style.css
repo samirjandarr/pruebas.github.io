@@ -1,0 +1,13 @@
+*{
+    margin: 5px;
+}
+
+.titulo{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.oficio{
+    padding-left: 0.5rem;
+    padding-top: 1rem;
+}
